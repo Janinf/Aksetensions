@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aksetensions", "Aksetensions\Aksetensions.csproj", "{467944D8-0D72-49D2-9EDE-451928A4CBB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Aksetensions", "Test.Aksetensions\Test.Aksetensions.csproj", "{7C502462-4CC6-48B7-BC1E-D3348A769605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{467944D8-0D72-49D2-9EDE-451928A4CBB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{467944D8-0D72-49D2-9EDE-451928A4CBB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{467944D8-0D72-49D2-9EDE-451928A4CBB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C502462-4CC6-48B7-BC1E-D3348A769605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C502462-4CC6-48B7-BC1E-D3348A769605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C502462-4CC6-48B7-BC1E-D3348A769605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C502462-4CC6-48B7-BC1E-D3348A769605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
