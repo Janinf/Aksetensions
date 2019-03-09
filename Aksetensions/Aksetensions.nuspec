@@ -6,9 +6,9 @@
     <title>$title$</title>
     <authors>Jan Armbruster</authors>
     <owners>$author$</owners>
-    <licenseUrl>https://github.com/Janinf/Aksetensions/blob/master/LICENSE</licenseUrl>
+    <license type="expression">MIT</license>
     <projectUrl>https://github.com/Janinf/Aksetensions</projectUrl>
-    <iconUrl></iconUrl>
+    <iconUrl>https://github.com/Janinf/Aksetensions/blob/master/icon.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Contains some useful extension methods</description>
     <releaseNotes></releaseNotes>
